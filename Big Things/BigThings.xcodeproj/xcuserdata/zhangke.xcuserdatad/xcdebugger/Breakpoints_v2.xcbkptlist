@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BigThings/BigThing.swift"
+            timestampString = "596548668.481847"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "BigThing"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BigThings.BigThing.status.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "BigThings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangke/Desktop/BigThings/BigThings/BigThing.swift"
+                  timestampString = "596351404.527248"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BigThings.BigThing.status.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "BigThings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangke/Desktop/BigThings/BigThings/BigThing.swift"
+                  timestampString = "596351404.531644"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BigThings.BigThing.status.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "BigThings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangke/Desktop/BigThings/BigThings/BigThing.swift"
+                  timestampString = "596351404.535328"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BigThings.BigThing.status.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BigThings"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangke/Desktop/BigThings/BigThings/BigThing.swift"
+                  timestampString = "596351404.538385"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
